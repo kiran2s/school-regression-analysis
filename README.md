@@ -4,9 +4,9 @@
 
 This readme describes the Regression Analysis for School Administrators application developed for UCLA CS 130, Spring 2016 by:
 
+- Kiran Sivakumar
 - Siddhant Khemka 
-- Kevin Sheu 
-- Kiran Sivakumar 
+- Kevin Sheu  
 - Josh Vaughen 
 - Karthik Vemulapalli 
 - Dillon Zhi 
